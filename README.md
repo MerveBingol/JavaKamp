@@ -1,4 +1,4 @@
-# JavaKamp
+#Yazılım Geliştirici Yetiştirme Kampı (Java & React) - Engin Demiroğ
 
 ------------------  4.GÜN 2.ÖDEV ----------------------------
 
