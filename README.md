@@ -1,4 +1,4 @@
-<img src="https://www.shareicon.net/data/64x64/2015/12/05/194953_java_256x256.png">   <h3> Yazılım Geliştirici Yetiştirme Kampı (Java & React) - Engin Demiroğ </h3>
+<img src="https://www.shareicon.net/data/64x64/2015/12/05/194953_java_256x256.png">   <h2> Yazılım Geliştirici Yetiştirme Kampı (Java & React) - Engin Demiroğ </h2>
 
 
 
