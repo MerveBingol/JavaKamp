@@ -1,4 +1,5 @@
-#Yazılım Geliştirici Yetiştirme Kampı (Java & React) - Engin Demiroğ
+- Yazılım Geliştirici Yetiştirme Kampı (Java & React) - Engin Demiroğ
+
 
 ------------------  4.GÜN 2.ÖDEV ----------------------------
 
@@ -9,10 +10,10 @@
 
 ----------------- 4.GÜN 3.ÖDEV ----------------------------
 
-1. Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortam simule edildi.
-2. Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapıldı.
+- Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortam simule edildi.
+- Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapıldı.
 (E-devlet sistemlerinde doğrulama TcNo, Ad, Soyad, DoğumYılı bilgileriyle yapılır. Bunu yapacak servisi simule etmeniz yeterlidir.)
-3. Oyun satışı yapılabilecek satış ortamını simule edildi.
-4. Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule edildi.
-5. Satışlarda kampanya entegrasyonunu simule edildi.
+- Oyun satışı yapılabilecek satış ortamını simule edildi.
+- Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule edildi.
+- Satışlarda kampanya entegrasyonunu simule edildi.
 
