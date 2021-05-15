@@ -18,3 +18,24 @@
 - Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule edildi.
 - Satışlarda kampanya entegrasyonunu simule edildi.
 
+----------------- 5.GÜN 1.ÖDEV ----------------------------
+
+Kullanıcılar sisteme bilgilerini girerek üye olabilmektedir.
+
+Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.
+Parola en az 6 karakterden oluşmaktadır.
+E-posta alanı e-posta formatındadır. (Regex ile yapınız. Araştırma konusu)
+E-Posta daha önce kullanılmamış olmalıdır.
+Ad ve soyad en az iki karakterden oluşmaktadır.
+Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmektedir. (Simulasyon)
+Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
+Hatalı veya başarılı durumda kullanıcı bilgilendirilmektedir.
+Kullanıcılar sisteme Google hesapları ile üye olabilmektedirler. (Simulasyon)
+
+İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
+Hatalı veya başarılı durumda kullanıcı bilgilendirilmektedir.
+Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmektedir.
+
+E-posta ve parola zorunludur
+Hatalı veya başarılı durumda kullanıcı bilgilendirilmektedir.
+
