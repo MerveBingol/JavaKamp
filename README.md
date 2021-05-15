@@ -1,4 +1,5 @@
-<img src="https://www.shareicon.net/data/64x64/2015/12/05/194953_java_256x256.png">  Yazılım Geliştirici Yetiştirme Kampı (Java & React) - Engin Demiroğ
+<img src="https://www.shareicon.net/data/64x64/2015/12/05/194953_java_256x256.png">    Yazılım Geliştirici Yetiştirme Kampı (Java & React) - Engin Demiroğ
+
 
 
 ------------------  4.GÜN 2.ÖDEV ----------------------------
